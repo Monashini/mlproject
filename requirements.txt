@@ -1,0 +1,5 @@
+pandas
+numpy
+seaborn
+# enabling setup to run
+-e .
