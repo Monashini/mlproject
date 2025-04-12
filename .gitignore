@@ -1,0 +1,26 @@
+# Virtual environments
+venv/
+.venv/
+ENV/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Data files
+*.csv
+*.tsv
+*.pkl
+*.h5
+*.pt
+*.ckpt
+
+# VS Code
+.vscode/
+
+# Mac system files
+.DS_Store
