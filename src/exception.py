@@ -1,5 +1,5 @@
 import sys  # Imports the sys module to access system-specific parameters and functions like exc_info()
-import logging
+from src.logger import logging
 # Function to create a detailed error message with file name, line number, and error description
 def error_message_detail(error, error_detail: sys):  
     _, _, exc_tb = error_detail.exc_info()  # Gets the traceback object from the exception

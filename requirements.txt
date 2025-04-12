@@ -1,5 +1,13 @@
 pandas
 numpy
 seaborn
+matplotlib
+xgboost
+catboost
+scikit-learn
+numpy
+pandas
+matplotlib
+seaborn
 # enabling setup to run
 -e .

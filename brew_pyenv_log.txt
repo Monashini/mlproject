@@ -1,0 +1,23 @@
+Warning: You are using macOS 11.
+We (and Apple) do not provide support for this old version.
+
+This is a Tier 3 configuration:
+  https://docs.brew.sh/Support-Tiers#tier-3
+Do not report any issues to Homebrew/* repositories!
+Read the above document instead before opening any issues or PRs.
+
+==> Fetching dependencies for pyenv: openssl@3
+==> Fetching openssl@3
+==> Downloading https://raw.githubusercontent.com/Homebrew/homebrew-core/63d82a7792210d6d79c1562c1107268a8778653b/Formula/o/openssl@3.rb
+Already downloaded: /Users/mona/Library/Caches/Homebrew/downloads/6760314d3ebb6b72e95a8bd41632d988ec31472413765ad7cf5746b80522f25a--openssl@3.rb
+==> Downloading https://github.com/openssl/openssl/releases/download/openssl-3.4.1/openssl-3.4.1.tar.gz
+Already downloaded: /Users/mona/Library/Caches/Homebrew/downloads/ab2634b37612f6fc36d153b4875c8b894472179c1aa39f6f58396201bf66ab42--openssl-3.4.1.tar.gz
+==> Fetching pyenv
+==> Downloading https://raw.githubusercontent.com/Homebrew/homebrew-core/63d82a7792210d6d79c1562c1107268a8778653b/Formula/p/pyenv.rb
+Already downloaded: /Users/mona/Library/Caches/Homebrew/downloads/3de5df804f1816b1ec07f180c378d3c9d19fb0e0dac0b4d603eeb403b265b269--pyenv.rb
+==> Downloading https://github.com/pyenv/pyenv/archive/refs/tags/v2.5.4.tar.gz
+Already downloaded: /Users/mona/Library/Caches/Homebrew/downloads/3f0b1cab9acd279b224c7b82a870355255b4ccffa07927a8e39caf00d4ac9f30--pyenv-2.5.4.tar.gz
+==> Reinstalling pyenv 
+==> Installing dependencies for pyenv: openssl@3
+==> Installing pyenv dependency: openssl@3
+[34m==>[0m [1mperl ./Configure --prefix=/usr/local/Cellar/openssl@3/3.4.1 --openssldir=/us[0m

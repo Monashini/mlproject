@@ -1,4 +1,4 @@
-#!/Users/mona/Documents/mlproject/venv/bin/python
+#!/Users/mona/Documents/mlproject/venv/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
