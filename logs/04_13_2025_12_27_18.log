@@ -1,0 +1,7 @@
+[2025-04-13 12:27:19,346] [line:160] [numexpr.utils] [INFO] - NumExpr defaulting to 4 threads.
+[2025-04-13 12:27:21,328] [line:32] [root] [INFO] - Entered the data ingestion method/component
+[2025-04-13 12:27:21,343] [line:36] [root] [INFO] - Read the dataset as dataframe
+[2025-04-13 12:27:21,356] [line:44] [root] [INFO] - Train-test split initialized
+[2025-04-13 12:27:21,368] [line:53] [root] [INFO] - Ingestion is completed
+[2025-04-13 12:27:21,376] [line:66] [root] [INFO] - Read train and test data completed
+[2025-04-13 12:27:21,376] [line:67] [root] [INFO] - Obtaining preprocessor object
